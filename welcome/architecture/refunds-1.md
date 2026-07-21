@@ -2,7 +2,6 @@
 description: >-
   Understand the refund flow, requirements, and implementation across supported
   chains.
-hidden: true
 ---
 
 # Submitting a Fulfillment Result

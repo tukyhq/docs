@@ -6,5 +6,5 @@ description: How the Bando Fulfillment Protocol receives new requests.
 
 ## How Does Requesting an Order Works?
 
-<div align="left"><img src="../../fulfiller-api/guides/complete-flow.svg" alt="alt text"></div>
+<div align="left"><img src="../../.gitbook/assets/complete-flow.svg" alt="alt text"></div>
 

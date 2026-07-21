@@ -8,8 +8,8 @@ description: Configure the Bando Widget.
 
 With the Bando widget, you can configure the following options:
 
-- Preselect default country
-- Restrict products from countries or regions
+* Preselect default country
+* Restrict products from countries or regions
 
 ### Initialize Form Values
 
@@ -19,8 +19,8 @@ By preconfiguring these options, you can enhance the user experience by ensuring
 
 #### How to Initialize:
 
-- **Widget Configuration**: You can add values such as `fromToken\`, `product\`,`blockedCountries\`or`country\` directly into the widget configuration.
-- **URL Search Parameters**: If the `buildUrl` option in the widget config is set to `true`, these form values can be added as URL parameters on the page where the widget is displayed.
+* **Widget Configuration**: You can add values such as `fromToken\`, `product\`,`blockedCountries\`or`country\` directly into the widget configuration.
+* **URL Search Parameters**: If the `buildUrl` option in the widget config is set to `true`, these form values can be added as URL parameters on the page where the widget is displayed.
 
 When you set these form values via configuration or URL parameters, the corresponding form fields in the widget UI will automatically update to reflect those values.
 
@@ -54,7 +54,7 @@ export const WidgetPage = () => {
 ```
 
 {% hint style="info" %}
-You can look for the registered products [using our API](fulfiller-api/guides/get-available-products.md).
+You can look for the registered products [using our API](https://github.com/bandohq/docs/blob/main/widget/fulfiller-api/guides/get-available-products.md).
 {% endhint %}
 
 To set form values in the Bando widget using URL search parameters, you need to ensure that buildUrl is set to true in the widget config.

@@ -1,6 +1,5 @@
 ---
 description: How the Bando Fulfillment Protocol routes and makes payments for a user.
-hidden: true
 ---
 
 # Order Fulfillment

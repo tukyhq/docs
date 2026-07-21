@@ -1,6 +1,5 @@
 ---
 description: How the Bando Fulfillment Protocol receives new requests.
-hidden: true
 ---
 
 # Old Order request with escrow
